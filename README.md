@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/github/repo-size/jmheartley/dreamlo.js?color=orange"  alt="GitHub repo size">
   <img src="https://data.jsdelivr.com/v1/package/npm/dreamlo.js/badge?style=rounded" alt="JSDelivr Downloads"> 
   <a href="https://www.npmjs.com/package/dreamlo.js">
-    <img src="https://img.shields.io/npm/v/dreamlo.js" alt="NPM version">
+    <img src="https://img.shields.io/npm/v/dreamlo.js?color=ff0000" alt="NPM version">
   </a>
 </p>
 
