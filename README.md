@@ -19,11 +19,17 @@
   <a href="/LICENSE">
     <img src="https://img.shields.io/github/license/jmheartley/dreamlo.js?color=brightgreen" alt="GitHub License" >
   </a>
-  <img src="https://img.shields.io/github/last-commit/jmheartley/dreamlo.js?color=green" alt="GitHub last commit">
-  <img src="https://img.shields.io/github/contributors/jmheartley/dreamlo.js?color=yellowgreen" alt="GitHub contributors">
+  <a href="https://github.com/JMHeartley/dreamlo.js/commits/master/">
+    <img src="https://img.shields.io/github/last-commit/jmheartley/dreamlo.js?color=green" alt="GitHub last commit">
+  </a>
+  <a href="https://github.com/JMHeartley/dreamlo.js/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/jmheartley/dreamlo.js?color=yellowgreen" alt="GitHub contributors">
+  </a>
   <img src="https://img.shields.io/badge/total%20lines-1.1k-yellow" alt="Lines of code">
   <img src="https://img.shields.io/github/repo-size/jmheartley/dreamlo.js?color=orange"  alt="GitHub repo size">
-  <img src="https://img.shields.io/npm/v/dreamlo.js?color=red" alt="NPM version">
+  <a href="https://www.npmjs.com/package/dreamlo.js">
+    <img src="https://img.shields.io/npm/v/dreamlo.js?color=red" alt="NPM version">
+  </a>
 </p>
 
 
